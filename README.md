@@ -7,7 +7,7 @@ Paulocity's GitHub profile README - showcasing skills in HTML, CSS and JavaScrip
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paulocitydev" alt="paulocitydev" /></a> </p>
 
-<div align="center" style="font-size: 40px;">How to reach me 📫 info@paulocitydev.com</div>
+<div align="center" style="font-size: 80px;">How to reach me 📫 info@paulocitydev.com</div>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
